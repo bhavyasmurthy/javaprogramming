@@ -1,4 +1,0 @@
-Hi Learning automation tool.
-Hi welcome to java programming.
-Hi add the java programs.
-"hello git repository"
